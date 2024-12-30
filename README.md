@@ -1,1 +1,1 @@
-https://amitpant9999.github.io/pizza-order-app/
+[Live](https://pizza-order-app-snowy.vercel.app/)
